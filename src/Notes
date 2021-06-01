@@ -1,0 +1,48 @@
+npx create-react-app app-name --template redux
+
+create firebase 
+
+make firebase folder, copy over the config.
+
+Move counter slice into the features folder
+delete counter folder
+
+Clean up the app.js folder
+
+install react-router with 
+    npx install react-router-dom
+
+Follow React router documentation
+https://reactrouter.com/web/guides/quick-start
+
+Delete everything in app.css
+
+In the index.css add:
+* {
+  margin: 0;
+} 
+
+in the body, add any variables such as colors.
+--main-color: black; 
+And
+overflow: hidden; 
+
+npm install @material-ui/core
+
+npm install @material-ui/icons
+
+install Styled components
+
+styled-componenets.com/docs/basics
+
+npm install styled-components
+
+in package.json 
+
+"resolutions": {
+    "styled-components": "^5"
+  }
+
+Install redux
+npm install @reduxjs/toolkit
+
